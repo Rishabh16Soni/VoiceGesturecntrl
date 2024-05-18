@@ -30,7 +30,7 @@ Hand tracking module: GitHub - OpenAI/hand-tracking: Hand tracking module using 
 # Author:
 Rishabh Soni
 
-License:
+# License:
 This project is licensed under the MIT License.
 
 Feel free to contribute, report issues, or suggest improvements!
